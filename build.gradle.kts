@@ -51,6 +51,6 @@ dependencies {
 
 graphql {
     schema {
-        packages = listOf("com.ppseafield.graphql", "com.ppseafield")
+        packages = listOf("com.ppseafield.graphql", "com.ppseafield.models", "com.ppseafield.graphql.services")
     }
 }
